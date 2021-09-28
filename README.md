@@ -1,6 +1,6 @@
-#Assignment 03
+<h1>Assignment 03</h1>
 
-##Directions on Using Git and Github
+<h2>Directions on Using Git and Github</h2>
 
 To start off, we first need to know the simple difference between Git and GitHub. Git is a software use to track
 any changes made to a set of files, and GitHub is a provider of internet where a developer uploads and keeps record of those changes.
@@ -16,3 +16,19 @@ capture to GitHub. You will receive a pull request notification, click on it, an
 commits made to the files, as well as having the option to make comments and check if your changes are able to merge to the repository on GitHub.
 Once everything is good, you can go ahead and merge the changes, this will update the repository on GitHub with all the changes you made,
 making it available for you or your team.
+
+<h1>Glossary</h1>
+  <strong>BRANCH</strong>: A line or version of development of the repository.<br>
+  <strong>Clone</strong>: Use to copy a remote ropository.<br>
+  <strong>Commit</strong>: A Snapshot of the code at a giving point in the Git timeline.<br>
+  <strong>Fetch</strong>: To copy the branches and its files from a remote to a local repository.<br>
+  <strong>GIT</strong>: Software use to track the changes made on working directories.<br>
+  <strong>Github</strong>: a web-based hosting service for Git projects.<br>
+  <strong>Merge</strong>: To take the changes from one branch into another.<br>
+  <strong>Merge Conflict</strong>: When Github is unable to automatically take the changes from one into another.<br>
+  <strong>Push</strong>: Sends the changes made on local to remote repository.<br>
+  <strong>Pull</strong>: Takes the updated files from remote to local.<br>
+  <strong>Remote</strong>: A copy of the reopitory hosted on Github.<br>
+  <strong>Repository</strong>: A working diretory to store files of a project.<br>
+
+
